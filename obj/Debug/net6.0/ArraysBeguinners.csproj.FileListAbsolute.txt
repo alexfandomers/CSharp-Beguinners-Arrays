@@ -1,0 +1,15 @@
+C:\C#\ArraysBeguinners\bin\Debug\net6.0\ArraysBeguinners.exe
+C:\C#\ArraysBeguinners\bin\Debug\net6.0\ArraysBeguinners.deps.json
+C:\C#\ArraysBeguinners\bin\Debug\net6.0\ArraysBeguinners.runtimeconfig.json
+C:\C#\ArraysBeguinners\bin\Debug\net6.0\ArraysBeguinners.dll
+C:\C#\ArraysBeguinners\bin\Debug\net6.0\ArraysBeguinners.pdb
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.csproj.AssemblyReference.cache
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.AssemblyInfoInputs.cache
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.AssemblyInfo.cs
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.csproj.CoreCompileInputs.cache
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.dll
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\refint\ArraysBeguinners.dll
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.pdb
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ArraysBeguinners.genruntimeconfig.cache
+C:\C#\ArraysBeguinners\obj\Debug\net6.0\ref\ArraysBeguinners.dll
